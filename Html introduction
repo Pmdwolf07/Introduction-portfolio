@@ -1,1 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Introduction Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+    <div class="container">
+        <header>
+            <h1>Hi, I'm John Cyrus S. Ongotan </h1>
+            <p>Welcome to my Introduction Portfolio</p>
+        </header>
+
+        <section class="card">
+            <h2>About Me</h2>
+            <p>
+                My name is <strong>John Cyrus S. Ongotan</strong>. I am
+                <strong>22 years old</strong>. I enjoy learning new things,
+                especially about technology and gaming. I'm interested in both
+                Web2 and Web3 games, but nowadays I spend more time exploring
+                Web3 games because of the exciting blockchain features and communities.
+            </p>
+        </section>
+
+        <section class="card">
+            <h2>My Hobbies</h2>
+            <ul>
+                <li> Playing Web3 Games</li>
+                <li> Playing Web2 Games</li>
+                <li> Listening to Music</li>
+                <li>Watching Anime</li>
+                <li> Watching K-Dramas</li>
+            </ul>
+        </section>
+
+        <section class="card">
+            <h2>Dislikes</h2>
+            <ul>
+                <li> Toxic people</li>
+                <li> Dishonesty</li>
+                <li>Wasting time</li>
+                <li> Negative attitude</li>
+            </ul>
+        </section>
+
+        <section class="card">
+            <h2>Favorite Quote</h2>
+            <p>
+                "Success comes from continuous learning and never giving up."
+            </p>
+        </section>
+
+        <footer>
+            <p>© 2026 John Cyrus S. Ongotan | BSIT Student</p>
+        </footer>
+    </div>
+
+</body>
+</html>
